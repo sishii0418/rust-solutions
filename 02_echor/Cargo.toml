@@ -5,7 +5,7 @@ edition = "2021"
 authors = [ "Shunsuke Ishii" ]
 
 [dependencies]
-clap = { version = "4.5.9", features = ["derive"] }
+clap = "2"
 
 [dev-dependencies]
 assert_cmd = "2"
